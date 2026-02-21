@@ -3,14 +3,8 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
-Grouping & Aggregating: Using The Agg Method
-
-
-9:35
-
-7:41
-Agg with Custom Functions
-5:28
+Grouping & Aggregating: Agg with Custom Functions
+8
 Named Aggregation
 4:25
 EXERCISE: Groupby
