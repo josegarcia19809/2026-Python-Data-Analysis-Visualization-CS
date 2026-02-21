@@ -1,0 +1,28 @@
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+__MACOSX/
+
+# --- JetBrains DataSpell / IntelliJ ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+gen/
+
+# --- Python/Data Science (Recomendado) ---
+venv/
+.ipynb_checkpoints
+*.pyc
