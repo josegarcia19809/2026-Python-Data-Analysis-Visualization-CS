@@ -3,9 +3,9 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
-Grouping & Aggregating: Agg with Custom Functions
+Grouping & Aggregating: Named Aggregation
 8
-Named Aggregation
+
 4:25
 EXERCISE: Groupby
 3:57
