@@ -1,3 +1,21 @@
 2026 Python Data Analysis & Visualization CS: Creación de dataframes
 
 Machine Learning y Data Science: 4_Regresión_Lineal
+
+
+Grouping & Aggregating: Introducing Groupby
+Introducing Groupby
+5:41
+Exploring Groups
+9:41
+Split-Apply-Combine
+9:35
+Using The Agg Method
+7:41
+Agg with Custom Functions
+5:28
+Named Aggregation
+4:25
+EXERCISE: Groupby
+3:57
+SOLUTION: Groupby
