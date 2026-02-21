@@ -3,11 +3,8 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
-Grouping & Aggregating: Introducing Groupby
-Introducing Groupby
-5:41
-Exploring Groups
-9:41
+Grouping & Aggregating: Exploring Groups
+
 Split-Apply-Combine
 9:35
 Using The Agg Method
