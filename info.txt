@@ -3,10 +3,3 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
-Grouping & Aggregating: Named Aggregation
-8
-
-4:25
-EXERCISE: Groupby
-3:57
-SOLUTION: Groupby
