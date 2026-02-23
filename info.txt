@@ -3,3 +3,25 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
+Hierarchical Indexing: Groupby With Multiple Columns
+
+
+7:12
+Creating a MultiIndex With set_index
+6:02
+Sorting A MultiIndex
+8:28
+Using .loc[] With A MultiIndex
+10:12
+Cross Sections With The XS Method
+2:30
+get_level_values()
+8:10
+Hierarchical Columns
+5:05
+Stack() and Unstack()
+3:48
+Plotting With Unstack()
+7:58
+Grouping By Index
+5:07
