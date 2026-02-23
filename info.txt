@@ -3,11 +3,11 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
-Hierarchical Indexing: Groupby With Multiple Columns
+Hierarchical Indexing: Creating a MultiIndex With set_index
 
 
 7:12
-Creating a MultiIndex With set_index
+
 6:02
 Sorting A MultiIndex
 8:28
