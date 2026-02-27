@@ -3,9 +3,9 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
-Hierarchical Indexing: Sorting A MultiIndex
+Hierarchical Indexing: Using .loc[] With A MultiIndex
 
-Using .loc[] With A MultiIndex
+
 10:12
 Cross Sections With The XS Method
 2:30
