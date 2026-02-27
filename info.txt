@@ -3,14 +3,8 @@
 Machine Learning y Data Science: 4_Regresión_Lineal
 
 
-Hierarchical Indexing: Creating a MultiIndex With set_index
+Hierarchical Indexing: Sorting A MultiIndex
 
-
-7:12
-
-6:02
-Sorting A MultiIndex
-8:28
 Using .loc[] With A MultiIndex
 10:12
 Cross Sections With The XS Method
