@@ -1,6 +1,26 @@
 2026 Python Data Analysis & Visualization CS: Creación de dataframes
 
-Machine Learning y Data Science: 4_Regresión_Lineal
+Machine Learning y Data Science: Caso Práctico: Detección de noticias falsas con Machine Learning
+
+Caso Práctico: Detección de noticias falsas con Machine Learning
+4:57
+Caso Práctico: Lectura del conjunto de datos
+8:09
+Caso Práctico: Procesamiento de texto y lenguaje natural
+19:30
+Caso Práctico: Procesamiento del conjunto de datos
+4:21
+Caso Práctico: Codificación y Vectorización del conjunto de datos
+
+Caso Práctico: Entrenamiento del algoritmo de Regresión Logística
+
+Caso Práctico: Predicción con el modelo entrenado
+
+Caso Práctico: Prueba final del modelo con ejemplos reales y actuales
+
+
+
+
 
 
 Hierarchical Indexing: Using .loc[] With A MultiIndex
