@@ -1,8 +1,8 @@
 2026 Python Data Analysis & Visualization CS: Creación de dataframes
 
-Machine Learning y Data Science: Lectura del conjunto de datos
+Machine Learning y Data Science: Procesamiento de texto y lenguaje natural
 
-Caso Práctico: Procesamiento de texto y lenguaje natural
+Caso Práctico:
 19:30
 Caso Práctico: Procesamiento del conjunto de datos
 4:21
