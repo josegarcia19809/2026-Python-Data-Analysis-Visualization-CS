@@ -19,9 +19,9 @@ Caso Práctico: Prueba final del modelo con ejemplos reales y actuales
 
 
 
-Hierarchical Indexing: Cross Sections With The XS Method
+Hierarchical Indexing: get_level_values()
 
-get_level_values()
+
 8:10
 Hierarchical Columns
 5:05
