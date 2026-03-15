@@ -19,12 +19,8 @@ Caso Práctico: Prueba final del modelo con ejemplos reales y actuales
 
 
 
-Hierarchical Indexing: Using .loc[] With A MultiIndex
+Hierarchical Indexing: Cross Sections With The XS Method
 
-
-10:12
-Cross Sections With The XS Method
-2:30
 get_level_values()
 8:10
 Hierarchical Columns
