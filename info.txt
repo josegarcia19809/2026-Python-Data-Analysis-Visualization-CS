@@ -9,11 +9,11 @@ Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entre
 
 
 
-Hierarchical Indexing: Stack() and Unstack()
+Hierarchical Indexing: Plotting With Unstack()
 
 
 3:48
-Plotting With Unstack()
+
 7:58
 Grouping By Index
 5:07
