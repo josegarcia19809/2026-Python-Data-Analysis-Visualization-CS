@@ -9,12 +9,8 @@ Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entre
 
 
 
-Hierarchical Indexing: get_level_values()
+Hierarchical Indexing: Hierarchical Columns
 
-
-8:10
-Hierarchical Columns
-5:05
 Stack() and Unstack()
 3:48
 Plotting With Unstack()
