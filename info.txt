@@ -4,6 +4,25 @@ Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entre
 
 
 
+Working with Text: The String Datatype Vs. Object Datatype
+
+
+
+
+7:03
+Upper(), Lower(), and Capitalize()
+4:09
+Indexing String Series With []
+5:53
+Stripping Whitespace With Strip()
+3:58
+Splitting Text Values With Split()
+6:57
+Replacing Portions of Strings With Replace()
+7:00
+Testing Strings With Contains()
+3:59
+
 
 
 
