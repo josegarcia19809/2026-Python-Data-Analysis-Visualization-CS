@@ -4,13 +4,13 @@ Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entre
 
 
 
-Working with Text: The String Datatype Vs. Object Datatype
+Working with Text: Upper(), Lower(), and Capitalize()
 
 
 
 
 7:03
-Upper(), Lower(), and Capitalize()
+
 4:09
 Indexing String Series With []
 5:53
