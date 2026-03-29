@@ -4,12 +4,12 @@ Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entre
 
 
 
-Working with Text: Splitting Text Values With Split()
+Working with Text: Replacing Portions of Strings With Replace()
 
 
 
 6:57
-Replacing Portions of Strings With Replace()
+
 7:00
 Testing Strings With Contains()
 3:59
