@@ -4,10 +4,10 @@ Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entre
 
 
 
-Working with Text: Stripping Whitespace With Strip()
+Working with Text: Splitting Text Values With Split()
 
 
-Splitting Text Values With Split()
+
 6:57
 Replacing Portions of Strings With Replace()
 7:00
