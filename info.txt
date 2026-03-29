@@ -2,6 +2,44 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
+Plotting With Pandas and matplotlib: A Pandas Plotting Recap
 
 
-Working with Text: Testing Strings With Contains()
+A Pandas Plotting Recap
+5:13
+Changing Pandas Plot Styles
+2:29
+Adding Labels and Titles to Pandas Plots
+7:46
+Using rename() When Plotting
+3:11
+Closer Look at Pandas Bar Plots
+7:29
+EXERCISE: Pandas Plotting Challenge #1
+8:01
+Pandas Histograms
+3:11
+Box Plots
+5:08
+Pandas Line Plots
+5:33
+EXERCISE: Pandas Plotting Challenge #2
+4:05
+Pandas Scatter Plots
+2:59
+Multiple Plots On The Same Axes
+5:11
+UFOS Plotting Challenge!
+7:13
+EXERCISE: Pandas Plotting Challenge #3
+3:56
+Pandas Automatic Subplots
+7:38
+Manual Subplots With Pandas
+6:26
+EXERCISE: Pandas Plotting Challenge #4
+11:22
+EXERCISE: Pandas Plotting Challenge #5
+10:34
+Exporting Figures With savefig()
+2:37
