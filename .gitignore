@@ -26,3 +26,5 @@ gen/
 venv/
 .ipynb_checkpoints
 *.pyc
+
+data/nuforc_reports.csv
