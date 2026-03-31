@@ -2,14 +2,8 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
-Plotting With Pandas and matplotlib: Using rename() When Plotting
+Plotting With Pandas and matplotlib: Closer Look at Pandas Bar Plots
 
-
-7:46
-
-3:11
-Closer Look at Pandas Bar Plots
-7:29
 EXERCISE: Pandas Plotting Challenge #1
 8:01
 Pandas Histograms
