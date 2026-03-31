@@ -2,9 +2,9 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
-Plotting With Pandas and matplotlib: Closer Look at Pandas Bar Plots
+Plotting With Pandas and matplotlib: Pandas Plotting Challenge #1
 
-EXERCISE: Pandas Plotting Challenge #1
+EXERCISE:
 8:01
 Pandas Histograms
 3:11
