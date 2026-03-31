@@ -2,11 +2,11 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
-Plotting With Pandas and matplotlib: Adding Labels and Titles to Pandas Plots
+Plotting With Pandas and matplotlib: Using rename() When Plotting
 
 
 7:46
-Using rename() When Plotting
+
 3:11
 Closer Look at Pandas Bar Plots
 7:29
