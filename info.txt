@@ -2,9 +2,9 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
-Plotting With Pandas and matplotlib: Pandas Plotting Challenge #2
+Plotting With Pandas and matplotlib: Pandas Scatter Plots
 
-Pandas Scatter Plots
+
 2:59
 Multiple Plots On The Same Axes
 5:11
