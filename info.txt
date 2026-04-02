@@ -2,10 +2,8 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
-Plotting With Pandas and matplotlib: UFOS Plotting Challenge!
+Plotting With Pandas and matplotlib: Pandas Plotting Challenge #3
 
-EXERCISE: Pandas Plotting Challenge #3
-3:56
 Pandas Automatic Subplots
 7:38
 Manual Subplots With Pandas
