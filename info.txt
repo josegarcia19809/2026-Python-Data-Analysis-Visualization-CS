@@ -2,14 +2,8 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
-Plotting With Pandas and matplotlib: Multiple Plots On The Same Axes
+Plotting With Pandas and matplotlib: UFOS Plotting Challenge!
 
-
-2:59
-
-5:11
-UFOS Plotting Challenge!
-7:13
 EXERCISE: Pandas Plotting Challenge #3
 3:56
 Pandas Automatic Subplots
