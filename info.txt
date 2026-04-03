@@ -2,7 +2,5 @@
 
 Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entrenado
 
-Plotting With Pandas and matplotlib: Pandas Plotting Challenge #5
+Plotting With Pandas and matplotlib: Exporting Figures With savefig()
 
-Exporting Figures With savefig()
-2:37
