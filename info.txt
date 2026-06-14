@@ -4,4 +4,4 @@ Machine Learning y Data Science: Caso Práctico: Predicción con el modelo entre
 
 Plotting With Pandas and matplotlib: Exporting Figures With savefig()
 
-Combinando series y dataframes con merge
+Controlando la estética de Seaborn
