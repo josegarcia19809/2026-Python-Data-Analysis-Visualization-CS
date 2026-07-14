@@ -1,0 +1,30 @@
+clase_pasajero,sobrevivio,nombre,sexo,edad
+1,1,"Allen, Miss. Elisabeth Walton",female,29
+1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18
+1,1,"Aubart, Mme. Leontine Pauline",female,24
+1,1,"Barber, Miss. Ellen 'Nellie'",female,26
+1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80
+1,0,"Baxter, Mr. Quigg Edmond",male,24
+1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50
+1,1,"Bazzani, Miss. Albina",female,32
+2,0,"Parker, Mr. Clifford Richard",male,28
+2,1,"Parrish, Mrs. (Lutie Davis)",female,50
+2,0,"Pengelly, Mr. Frederick William",male,19
+2,0,"Peruschitz, Rev. Joseph Maria",male,41
+2,1,"Phillips, Miss. Alice Frances Louisa",female,21
+2,1,"Phillips, Miss. Kate Florence ('Mrs Kate Louise Phillips Marshall')",female,19
+2,0,"Phillips, Mr. Escott Robert",male,43
+2,1,"Pinsky, Mrs. (Rosa)",female,32
+2,0,"Ponesell, Mr. Martin",male,34
+3,0,"Abbing, Mr. Anthony",male,42
+3,0,"Abbott, Master. Eugene Joseph",male,13
+3,0,"Abbott, Mr. Rossmore Edward",male,16
+3,1,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35
+3,1,"Abelseth, Miss. Karen Marie",female,16
+3,0,"Andersen, Mr. Albert Karvin",male,32
+3,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19
+3,0,"Andersson, Master. Sigvard Harald Elias",male,4
+3,0,"Andersson, Miss. Ebba Iris Alfrida",female,6
+3,0,"Andersson, Miss. Ellis Anna Maria",female,2
+3,1,"Andersson, Miss. Erna Alexandra",female,17
+
